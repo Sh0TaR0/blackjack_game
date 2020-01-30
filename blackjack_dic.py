@@ -15,7 +15,8 @@ class Deck():
             {"number": "10", "value": 10},
             {"number": "J", "value": 10},
             {"number": "Q", "value": 10},
-            {"number": "K", "value": 10}, ]
+            {"number": "K", "value": 10}, 
+        ]
 
         self.cards = []
 
