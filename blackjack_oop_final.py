@@ -208,3 +208,8 @@ class Game():
 
 game = Game()
 game.play()
+                
+                      
+# ご視聴ありがとうございました。
+# Sincerely Yours,
+# Sho
